@@ -11109,7 +11109,7 @@
   "label": "cgvcf",
   "storeClass": "JBrowse/Store/SeqFeature/VCFTabix",
   "type": "CanvasVariants",
-  "category": "Complete genomics",
+  "category": "Complete genomics VCF",
   "baseUrl": "https://s3.amazonaws.com/1000genomes/",
   "urlTemplates": [
   "phase3/data/HG00403/cg_data/HG00403_lcl_SRR819866.wgs.COMPLETE_GENOMICS.20130401.snps_indels_svs_meis.high_coverage.genotypes.vcf.gz",
